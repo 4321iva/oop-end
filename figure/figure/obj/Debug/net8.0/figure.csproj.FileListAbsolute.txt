@@ -1,0 +1,15 @@
+D:\visual studio\oop-end\figure\figure\bin\Debug\net8.0\figure.exe
+D:\visual studio\oop-end\figure\figure\bin\Debug\net8.0\figure.deps.json
+D:\visual studio\oop-end\figure\figure\bin\Debug\net8.0\figure.runtimeconfig.json
+D:\visual studio\oop-end\figure\figure\bin\Debug\net8.0\figure.dll
+D:\visual studio\oop-end\figure\figure\bin\Debug\net8.0\figure.pdb
+D:\visual studio\oop-end\figure\figure\obj\Debug\net8.0\figure.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\oop-end\figure\figure\obj\Debug\net8.0\figure.AssemblyInfoInputs.cache
+D:\visual studio\oop-end\figure\figure\obj\Debug\net8.0\figure.AssemblyInfo.cs
+D:\visual studio\oop-end\figure\figure\obj\Debug\net8.0\figure.csproj.CoreCompileInputs.cache
+D:\visual studio\oop-end\figure\figure\obj\Debug\net8.0\figure.sourcelink.json
+D:\visual studio\oop-end\figure\figure\obj\Debug\net8.0\figure.dll
+D:\visual studio\oop-end\figure\figure\obj\Debug\net8.0\refint\figure.dll
+D:\visual studio\oop-end\figure\figure\obj\Debug\net8.0\figure.pdb
+D:\visual studio\oop-end\figure\figure\obj\Debug\net8.0\figure.genruntimeconfig.cache
+D:\visual studio\oop-end\figure\figure\obj\Debug\net8.0\ref\figure.dll
