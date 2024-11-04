@@ -1,0 +1,15 @@
+D:\visual studio\oop-end\interface3\interface3\bin\Debug\net8.0\interface3.exe
+D:\visual studio\oop-end\interface3\interface3\bin\Debug\net8.0\interface3.deps.json
+D:\visual studio\oop-end\interface3\interface3\bin\Debug\net8.0\interface3.runtimeconfig.json
+D:\visual studio\oop-end\interface3\interface3\bin\Debug\net8.0\interface3.dll
+D:\visual studio\oop-end\interface3\interface3\bin\Debug\net8.0\interface3.pdb
+D:\visual studio\oop-end\interface3\interface3\obj\Debug\net8.0\interface3.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\oop-end\interface3\interface3\obj\Debug\net8.0\interface3.AssemblyInfoInputs.cache
+D:\visual studio\oop-end\interface3\interface3\obj\Debug\net8.0\interface3.AssemblyInfo.cs
+D:\visual studio\oop-end\interface3\interface3\obj\Debug\net8.0\interface3.csproj.CoreCompileInputs.cache
+D:\visual studio\oop-end\interface3\interface3\obj\Debug\net8.0\interface3.sourcelink.json
+D:\visual studio\oop-end\interface3\interface3\obj\Debug\net8.0\interface3.dll
+D:\visual studio\oop-end\interface3\interface3\obj\Debug\net8.0\refint\interface3.dll
+D:\visual studio\oop-end\interface3\interface3\obj\Debug\net8.0\interface3.pdb
+D:\visual studio\oop-end\interface3\interface3\obj\Debug\net8.0\interface3.genruntimeconfig.cache
+D:\visual studio\oop-end\interface3\interface3\obj\Debug\net8.0\ref\interface3.dll
