@@ -1,0 +1,15 @@
+D:\visual studio\oop-end\stak\stak\bin\Debug\net8.0\stak.exe
+D:\visual studio\oop-end\stak\stak\bin\Debug\net8.0\stak.deps.json
+D:\visual studio\oop-end\stak\stak\bin\Debug\net8.0\stak.runtimeconfig.json
+D:\visual studio\oop-end\stak\stak\bin\Debug\net8.0\stak.dll
+D:\visual studio\oop-end\stak\stak\bin\Debug\net8.0\stak.pdb
+D:\visual studio\oop-end\stak\stak\obj\Debug\net8.0\stak.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\oop-end\stak\stak\obj\Debug\net8.0\stak.AssemblyInfoInputs.cache
+D:\visual studio\oop-end\stak\stak\obj\Debug\net8.0\stak.AssemblyInfo.cs
+D:\visual studio\oop-end\stak\stak\obj\Debug\net8.0\stak.csproj.CoreCompileInputs.cache
+D:\visual studio\oop-end\stak\stak\obj\Debug\net8.0\stak.sourcelink.json
+D:\visual studio\oop-end\stak\stak\obj\Debug\net8.0\stak.dll
+D:\visual studio\oop-end\stak\stak\obj\Debug\net8.0\refint\stak.dll
+D:\visual studio\oop-end\stak\stak\obj\Debug\net8.0\stak.pdb
+D:\visual studio\oop-end\stak\stak\obj\Debug\net8.0\stak.genruntimeconfig.cache
+D:\visual studio\oop-end\stak\stak\obj\Debug\net8.0\ref\stak.dll
