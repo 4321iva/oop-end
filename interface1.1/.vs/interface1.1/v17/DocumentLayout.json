@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio\\oop-end\\interface1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C01A0-245B-4284-9DB9-885064D27FA3}|interface1.1\\interface1.1.csproj|d:\\visual studio\\oop-end\\interface1.1\\interface1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C01A0-245B-4284-9DB9-885064D27FA3}|interface1.1\\interface1.1.csproj|solutionrelative:interface1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio\\oop-end\\interface1.1\\interface1.1\\Program.cs",
+              "RelativeDocumentMoniker": "interface1.1\\Program.cs",
+              "ToolTip": "D:\\visual studio\\oop-end\\interface1.1\\interface1.1\\Program.cs",
+              "RelativeToolTip": "interface1.1\\Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAkwIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:21:23.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
