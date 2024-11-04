@@ -1,0 +1,15 @@
+D:\visual studio\oop-end\robotazcolection\robotazcolection\bin\Debug\net8.0\robotazcolection.exe
+D:\visual studio\oop-end\robotazcolection\robotazcolection\bin\Debug\net8.0\robotazcolection.deps.json
+D:\visual studio\oop-end\robotazcolection\robotazcolection\bin\Debug\net8.0\robotazcolection.runtimeconfig.json
+D:\visual studio\oop-end\robotazcolection\robotazcolection\bin\Debug\net8.0\robotazcolection.dll
+D:\visual studio\oop-end\robotazcolection\robotazcolection\bin\Debug\net8.0\robotazcolection.pdb
+D:\visual studio\oop-end\robotazcolection\robotazcolection\obj\Debug\net8.0\robotazcolection.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\oop-end\robotazcolection\robotazcolection\obj\Debug\net8.0\robotazcolection.AssemblyInfoInputs.cache
+D:\visual studio\oop-end\robotazcolection\robotazcolection\obj\Debug\net8.0\robotazcolection.AssemblyInfo.cs
+D:\visual studio\oop-end\robotazcolection\robotazcolection\obj\Debug\net8.0\robotazcolection.csproj.CoreCompileInputs.cache
+D:\visual studio\oop-end\robotazcolection\robotazcolection\obj\Debug\net8.0\robotazcolection.sourcelink.json
+D:\visual studio\oop-end\robotazcolection\robotazcolection\obj\Debug\net8.0\robotazcolection.dll
+D:\visual studio\oop-end\robotazcolection\robotazcolection\obj\Debug\net8.0\refint\robotazcolection.dll
+D:\visual studio\oop-end\robotazcolection\robotazcolection\obj\Debug\net8.0\robotazcolection.pdb
+D:\visual studio\oop-end\robotazcolection\robotazcolection\obj\Debug\net8.0\robotazcolection.genruntimeconfig.cache
+D:\visual studio\oop-end\robotazcolection\robotazcolection\obj\Debug\net8.0\ref\robotazcolection.dll
