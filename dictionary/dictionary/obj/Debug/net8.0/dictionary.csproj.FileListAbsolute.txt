@@ -1,0 +1,15 @@
+D:\visual studio\oop-end\dictionary\dictionary\bin\Debug\net8.0\dictionary.exe
+D:\visual studio\oop-end\dictionary\dictionary\bin\Debug\net8.0\dictionary.deps.json
+D:\visual studio\oop-end\dictionary\dictionary\bin\Debug\net8.0\dictionary.runtimeconfig.json
+D:\visual studio\oop-end\dictionary\dictionary\bin\Debug\net8.0\dictionary.dll
+D:\visual studio\oop-end\dictionary\dictionary\bin\Debug\net8.0\dictionary.pdb
+D:\visual studio\oop-end\dictionary\dictionary\obj\Debug\net8.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\oop-end\dictionary\dictionary\obj\Debug\net8.0\dictionary.AssemblyInfoInputs.cache
+D:\visual studio\oop-end\dictionary\dictionary\obj\Debug\net8.0\dictionary.AssemblyInfo.cs
+D:\visual studio\oop-end\dictionary\dictionary\obj\Debug\net8.0\dictionary.csproj.CoreCompileInputs.cache
+D:\visual studio\oop-end\dictionary\dictionary\obj\Debug\net8.0\dictionary.sourcelink.json
+D:\visual studio\oop-end\dictionary\dictionary\obj\Debug\net8.0\dictionary.dll
+D:\visual studio\oop-end\dictionary\dictionary\obj\Debug\net8.0\refint\dictionary.dll
+D:\visual studio\oop-end\dictionary\dictionary\obj\Debug\net8.0\dictionary.pdb
+D:\visual studio\oop-end\dictionary\dictionary\obj\Debug\net8.0\dictionary.genruntimeconfig.cache
+D:\visual studio\oop-end\dictionary\dictionary\obj\Debug\net8.0\ref\dictionary.dll
