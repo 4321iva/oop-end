@@ -1,0 +1,15 @@
+D:\visual studio\oop-end\polimorfizm\polimorfizm\bin\Debug\net8.0\polimorfizm.exe
+D:\visual studio\oop-end\polimorfizm\polimorfizm\bin\Debug\net8.0\polimorfizm.deps.json
+D:\visual studio\oop-end\polimorfizm\polimorfizm\bin\Debug\net8.0\polimorfizm.runtimeconfig.json
+D:\visual studio\oop-end\polimorfizm\polimorfizm\bin\Debug\net8.0\polimorfizm.dll
+D:\visual studio\oop-end\polimorfizm\polimorfizm\bin\Debug\net8.0\polimorfizm.pdb
+D:\visual studio\oop-end\polimorfizm\polimorfizm\obj\Debug\net8.0\polimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\oop-end\polimorfizm\polimorfizm\obj\Debug\net8.0\polimorfizm.AssemblyInfoInputs.cache
+D:\visual studio\oop-end\polimorfizm\polimorfizm\obj\Debug\net8.0\polimorfizm.AssemblyInfo.cs
+D:\visual studio\oop-end\polimorfizm\polimorfizm\obj\Debug\net8.0\polimorfizm.csproj.CoreCompileInputs.cache
+D:\visual studio\oop-end\polimorfizm\polimorfizm\obj\Debug\net8.0\polimorfizm.sourcelink.json
+D:\visual studio\oop-end\polimorfizm\polimorfizm\obj\Debug\net8.0\polimorfizm.dll
+D:\visual studio\oop-end\polimorfizm\polimorfizm\obj\Debug\net8.0\refint\polimorfizm.dll
+D:\visual studio\oop-end\polimorfizm\polimorfizm\obj\Debug\net8.0\polimorfizm.pdb
+D:\visual studio\oop-end\polimorfizm\polimorfizm\obj\Debug\net8.0\polimorfizm.genruntimeconfig.cache
+D:\visual studio\oop-end\polimorfizm\polimorfizm\obj\Debug\net8.0\ref\polimorfizm.dll
