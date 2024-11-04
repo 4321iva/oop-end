@@ -1,0 +1,15 @@
+D:\visual studio\oop-end\complexclass\complexclass\bin\Debug\net8.0\complexclass.exe
+D:\visual studio\oop-end\complexclass\complexclass\bin\Debug\net8.0\complexclass.deps.json
+D:\visual studio\oop-end\complexclass\complexclass\bin\Debug\net8.0\complexclass.runtimeconfig.json
+D:\visual studio\oop-end\complexclass\complexclass\bin\Debug\net8.0\complexclass.dll
+D:\visual studio\oop-end\complexclass\complexclass\bin\Debug\net8.0\complexclass.pdb
+D:\visual studio\oop-end\complexclass\complexclass\obj\Debug\net8.0\complexclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\oop-end\complexclass\complexclass\obj\Debug\net8.0\complexclass.AssemblyInfoInputs.cache
+D:\visual studio\oop-end\complexclass\complexclass\obj\Debug\net8.0\complexclass.AssemblyInfo.cs
+D:\visual studio\oop-end\complexclass\complexclass\obj\Debug\net8.0\complexclass.csproj.CoreCompileInputs.cache
+D:\visual studio\oop-end\complexclass\complexclass\obj\Debug\net8.0\complexclass.sourcelink.json
+D:\visual studio\oop-end\complexclass\complexclass\obj\Debug\net8.0\complexclass.dll
+D:\visual studio\oop-end\complexclass\complexclass\obj\Debug\net8.0\refint\complexclass.dll
+D:\visual studio\oop-end\complexclass\complexclass\obj\Debug\net8.0\complexclass.pdb
+D:\visual studio\oop-end\complexclass\complexclass\obj\Debug\net8.0\complexclass.genruntimeconfig.cache
+D:\visual studio\oop-end\complexclass\complexclass\obj\Debug\net8.0\ref\complexclass.dll
