@@ -1,0 +1,15 @@
+D:\visual studio\oop-end\fruit\fruit\bin\Debug\net8.0\fruit.exe
+D:\visual studio\oop-end\fruit\fruit\bin\Debug\net8.0\fruit.deps.json
+D:\visual studio\oop-end\fruit\fruit\bin\Debug\net8.0\fruit.runtimeconfig.json
+D:\visual studio\oop-end\fruit\fruit\bin\Debug\net8.0\fruit.dll
+D:\visual studio\oop-end\fruit\fruit\bin\Debug\net8.0\fruit.pdb
+D:\visual studio\oop-end\fruit\fruit\obj\Debug\net8.0\fruit.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\oop-end\fruit\fruit\obj\Debug\net8.0\fruit.AssemblyInfoInputs.cache
+D:\visual studio\oop-end\fruit\fruit\obj\Debug\net8.0\fruit.AssemblyInfo.cs
+D:\visual studio\oop-end\fruit\fruit\obj\Debug\net8.0\fruit.csproj.CoreCompileInputs.cache
+D:\visual studio\oop-end\fruit\fruit\obj\Debug\net8.0\fruit.sourcelink.json
+D:\visual studio\oop-end\fruit\fruit\obj\Debug\net8.0\fruit.dll
+D:\visual studio\oop-end\fruit\fruit\obj\Debug\net8.0\refint\fruit.dll
+D:\visual studio\oop-end\fruit\fruit\obj\Debug\net8.0\fruit.pdb
+D:\visual studio\oop-end\fruit\fruit\obj\Debug\net8.0\fruit.genruntimeconfig.cache
+D:\visual studio\oop-end\fruit\fruit\obj\Debug\net8.0\ref\fruit.dll
