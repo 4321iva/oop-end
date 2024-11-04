@@ -1,0 +1,15 @@
+D:\visual studio\oop-end\zamovlenna\zamovlenna\bin\Debug\net8.0\zamovlenna.exe
+D:\visual studio\oop-end\zamovlenna\zamovlenna\bin\Debug\net8.0\zamovlenna.deps.json
+D:\visual studio\oop-end\zamovlenna\zamovlenna\bin\Debug\net8.0\zamovlenna.runtimeconfig.json
+D:\visual studio\oop-end\zamovlenna\zamovlenna\bin\Debug\net8.0\zamovlenna.dll
+D:\visual studio\oop-end\zamovlenna\zamovlenna\bin\Debug\net8.0\zamovlenna.pdb
+D:\visual studio\oop-end\zamovlenna\zamovlenna\obj\Debug\net8.0\zamovlenna.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\oop-end\zamovlenna\zamovlenna\obj\Debug\net8.0\zamovlenna.AssemblyInfoInputs.cache
+D:\visual studio\oop-end\zamovlenna\zamovlenna\obj\Debug\net8.0\zamovlenna.AssemblyInfo.cs
+D:\visual studio\oop-end\zamovlenna\zamovlenna\obj\Debug\net8.0\zamovlenna.csproj.CoreCompileInputs.cache
+D:\visual studio\oop-end\zamovlenna\zamovlenna\obj\Debug\net8.0\zamovlenna.sourcelink.json
+D:\visual studio\oop-end\zamovlenna\zamovlenna\obj\Debug\net8.0\zamovlenna.dll
+D:\visual studio\oop-end\zamovlenna\zamovlenna\obj\Debug\net8.0\refint\zamovlenna.dll
+D:\visual studio\oop-end\zamovlenna\zamovlenna\obj\Debug\net8.0\zamovlenna.pdb
+D:\visual studio\oop-end\zamovlenna\zamovlenna\obj\Debug\net8.0\zamovlenna.genruntimeconfig.cache
+D:\visual studio\oop-end\zamovlenna\zamovlenna\obj\Debug\net8.0\ref\zamovlenna.dll
