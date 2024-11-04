@@ -1,0 +1,15 @@
+D:\visual studio\oop-end\interface2.1\interface2.1\bin\Debug\net8.0\interface2.1.exe
+D:\visual studio\oop-end\interface2.1\interface2.1\bin\Debug\net8.0\interface2.1.deps.json
+D:\visual studio\oop-end\interface2.1\interface2.1\bin\Debug\net8.0\interface2.1.runtimeconfig.json
+D:\visual studio\oop-end\interface2.1\interface2.1\bin\Debug\net8.0\interface2.1.dll
+D:\visual studio\oop-end\interface2.1\interface2.1\bin\Debug\net8.0\interface2.1.pdb
+D:\visual studio\oop-end\interface2.1\interface2.1\obj\Debug\net8.0\interface2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\oop-end\interface2.1\interface2.1\obj\Debug\net8.0\interface2.1.AssemblyInfoInputs.cache
+D:\visual studio\oop-end\interface2.1\interface2.1\obj\Debug\net8.0\interface2.1.AssemblyInfo.cs
+D:\visual studio\oop-end\interface2.1\interface2.1\obj\Debug\net8.0\interface2.1.csproj.CoreCompileInputs.cache
+D:\visual studio\oop-end\interface2.1\interface2.1\obj\Debug\net8.0\interface2.1.sourcelink.json
+D:\visual studio\oop-end\interface2.1\interface2.1\obj\Debug\net8.0\interface2.1.dll
+D:\visual studio\oop-end\interface2.1\interface2.1\obj\Debug\net8.0\refint\interface2.1.dll
+D:\visual studio\oop-end\interface2.1\interface2.1\obj\Debug\net8.0\interface2.1.pdb
+D:\visual studio\oop-end\interface2.1\interface2.1\obj\Debug\net8.0\interface2.1.genruntimeconfig.cache
+D:\visual studio\oop-end\interface2.1\interface2.1\obj\Debug\net8.0\ref\interface2.1.dll
