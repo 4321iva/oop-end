@@ -1,0 +1,15 @@
+D:\visual studio\oop-end\animal\animal\bin\Debug\net8.0\animal.exe
+D:\visual studio\oop-end\animal\animal\bin\Debug\net8.0\animal.deps.json
+D:\visual studio\oop-end\animal\animal\bin\Debug\net8.0\animal.runtimeconfig.json
+D:\visual studio\oop-end\animal\animal\bin\Debug\net8.0\animal.dll
+D:\visual studio\oop-end\animal\animal\bin\Debug\net8.0\animal.pdb
+D:\visual studio\oop-end\animal\animal\obj\Debug\net8.0\animal.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\oop-end\animal\animal\obj\Debug\net8.0\animal.AssemblyInfoInputs.cache
+D:\visual studio\oop-end\animal\animal\obj\Debug\net8.0\animal.AssemblyInfo.cs
+D:\visual studio\oop-end\animal\animal\obj\Debug\net8.0\animal.csproj.CoreCompileInputs.cache
+D:\visual studio\oop-end\animal\animal\obj\Debug\net8.0\animal.sourcelink.json
+D:\visual studio\oop-end\animal\animal\obj\Debug\net8.0\animal.dll
+D:\visual studio\oop-end\animal\animal\obj\Debug\net8.0\refint\animal.dll
+D:\visual studio\oop-end\animal\animal\obj\Debug\net8.0\animal.pdb
+D:\visual studio\oop-end\animal\animal\obj\Debug\net8.0\animal.genruntimeconfig.cache
+D:\visual studio\oop-end\animal\animal\obj\Debug\net8.0\ref\animal.dll
